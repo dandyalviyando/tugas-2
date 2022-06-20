@@ -1,9 +1,19 @@
-#card{
+.card{
     padding: 40px;
-    margin-top: 20px;
+    margin: 20px;
     text-align: center;
+    display: inline-block;
 }
 
 #getBtn{
     display: block;
+    margin: auto
+}
+
+h1{
+    text-align: center;
+}
+
+#cards{
+    text-align: center;
 }
